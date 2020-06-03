@@ -1,0 +1,2 @@
+C:\Users\ChiragAdalja\source\repos\service-fabric-dotnet-azure\Voting\obj\x64\Debug\Voting.sfproj.CoreCompileInputs.cache
+C:\Users\ChiragAdalja\source\repos\Oozychirag\AzurePOC\service-fabric-dotnet-azure\Voting\obj\x64\Debug\Voting.sfproj.CoreCompileInputs.cache

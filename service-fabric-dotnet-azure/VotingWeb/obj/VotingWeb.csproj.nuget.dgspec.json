@@ -1,0 +1,103 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ChiragAdalja\\source\\repos\\Oozychirag\\AzurePOC\\service-fabric-dotnet-azure\\VotingWeb\\VotingWeb.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ChiragAdalja\\source\\repos\\Oozychirag\\AzurePOC\\service-fabric-dotnet-azure\\VotingWeb\\VotingWeb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ChiragAdalja\\source\\repos\\Oozychirag\\AzurePOC\\service-fabric-dotnet-azure\\VotingWeb\\VotingWeb.csproj",
+        "projectName": "VotingWeb",
+        "projectPath": "C:\\Users\\ChiragAdalja\\source\\repos\\Oozychirag\\AzurePOC\\service-fabric-dotnet-azure\\VotingWeb\\VotingWeb.csproj",
+        "packagesPath": "C:\\Users\\ChiragAdalja\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ChiragAdalja\\source\\repos\\Oozychirag\\AzurePOC\\service-fabric-dotnet-azure\\VotingWeb\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ChiragAdalja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "Microsoft.ApplicationInsights.AspNetCore": {
+              "target": "Package",
+              "version": "[2.2.1, )"
+            },
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.0.4, )"
+            },
+            "Microsoft.AspNetCore.StaticFiles": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            },
+            "Microsoft.ServiceFabric": {
+              "target": "Package",
+              "version": "[6.4.617, )"
+            },
+            "Microsoft.ServiceFabric.AspNetCore.Kestrel": {
+              "target": "Package",
+              "version": "[3.3.617, )"
+            },
+            "Microsoft.ServiceFabric.Data": {
+              "target": "Package",
+              "version": "[3.3.617, )"
+            },
+            "Microsoft.ServiceFabric.Services": {
+              "target": "Package",
+              "version": "[3.3.617, )"
+            },
+            "Microsoft.ServiceFabric.Services.Remoting": {
+              "target": "Package",
+              "version": "[3.3.617, )"
+            },
+            "Microsoft.VisualStudio.Web.BrowserLink": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.0.4, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
